@@ -23,7 +23,7 @@ I've tested it with various IR frame models from:
 
 Please keep in mind that I cannot guarantee **ANY** IR touch device is compatible other than the ones I sell on my website, [digitaltabletops.com](https://digitaltabletops.com/)
 
-My software will tell you instantly whether your IR touch frame is compatible. It will also detect if it *might* be compatible. If this is the case, you will need to run a separate configuration utility from one of the touch manufacturers. I recommend this one from [Greentouch](https://www.greentouch.com.cn/download/). If it shows up fine in that program, all I'd need is your PID and VID (which will be clearly shown in that program). You can send it to mark@digitaltabletops.com
+My software will tell you instantly whether your IR touch frame is compatible. It will also detect if it *might* be compatible. If this is the case, download the [IRTouchUtility.zip](https://github.com/DigitalTableTops/digital-tabletops/releases/latest/download/IRTouchUtility.zip) from the latest releases. If it shows up fine in that program, all I'd need is the PID and VID listed in that program. You can send them to [mark@digitaltabletops.com](mark@digitaltabletops.com)
 
 ## Installation
 No installation is required for the Digital TableTops touch client. Simply download the executable for your operating system from the latest release [here](https://github.com/DigitalTableTops/digital-tabletops/releases/latest/)
