@@ -1,0 +1,23 @@
+{
+  "id": "digital-tabletops",
+  "title": "Digital Tabletops",
+  "description": "Adds controls useful for in-person sessions on a large format display (such as a TV). Can connect with my external program to receive coordinates of touch events from an infrared touch device.",
+  "version": "1.0.6",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "license": "CC-BY-NC-4.0",
+  "authors": [
+    {
+      "name": "Digital TableTops",
+      "email": "mark@digitaltabletops.com",
+      "url": "https://digitaltabletops.com"
+     }
+  ],
+  "socket": true,
+  "esmodules": [ "dtt.js"],
+  "url": "https://digitaltabletops.com",
+  "manifest": "https://github.com/DigitalTableTops/digital-tabletops/releases/latest/download/module.json",
+  "download": "https://github.com/DigitalTableTops/digital-tabletops/releases/latest/download/digital-tabletops.zip"
+}
