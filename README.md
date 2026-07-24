@@ -1,5 +1,5 @@
 # digital-tabletops
-The repo contains source code for the Digital TableTops touch client and accompanying Foundry VTT module.
+The repo contains source code for the Digital TableTops Foundry VTT module and binaries (not source) for the accompanying client software.
 
 The touch client allows you to use a compatible infrared (IR) touch frame device in Arkenforge or Foundry **on the same computer as the GM view**.
 Until now, you had to use a separate computer just for touch input. But not anymore! Now you can use a single computer for everything.
@@ -20,6 +20,12 @@ I've tested it with various IR frame models from:
 - TouchSmith
 - TouchWo
 - YCLTouch
+
+I have comfirmed the following manufacturers are **NOT** compatible:
+
+- Chengying
+
+I'd need the access to their programming guide to determine what payload to send the device. Since I do not sell those, I have no plans to acquire that information. But if you get it from them, feel free to pass it along and I will asd support!
 
 Please keep in mind that I cannot guarantee **ANY** IR touch device is compatible other than the ones I sell on my website, [digitaltabletops.com](https://digitaltabletops.com/)
 
