@@ -48,7 +48,7 @@ You can edit the port, but it is not recommended unless a conflict is present.
 You should measure the physical size of your TV and enter it in the startup screen when Foundry first loads. This is required if using the "zoom to scale" button.
 
 ## License
-Digital TableTops is licensed under the [Business Source License 1.1](LICENSE).
+Digital TableTops is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Terms of Use
 - **Personal & non-commercial use** is free and permitted
