@@ -25,7 +25,7 @@ I have comfirmed the following manufacturers are **NOT** compatible:
 
 - Chengying
 
-I'd need the access to their programming guide to determine what payload to send the device. Since I do not sell those, I have no plans to acquire that information. But if you get it from them, feel free to pass it along and I will asd support!
+I'd need the access to their programming guide to determine what payload to send the device. Since I do not sell those, I have no plans to acquire that information. But if you get it from them, feel free to pass it along and I will add support!
 
 Please keep in mind that I cannot guarantee **ANY** IR touch device is compatible other than the ones I sell on my website, [digitaltabletops.com](https://digitaltabletops.com/)
 
