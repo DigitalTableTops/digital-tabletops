@@ -8,7 +8,7 @@ It sends special packets to the touch device using HID that causes it to enter i
 While in this mode, no touch data is sent to the OS as regular input. So the mouse cursor will not move to the location of the touch.
 Instead, the raw touch data is parsed by the Digital TableTops client and sent directly to your VTT of choice.
 
-This functionality is built in to my own free VTT, the Digital TableeTops VTT found on Steam here: [store.steampowered.com/app/3073720/Digital_TableTops_VTT/](https://store.steampowered.com/app/3073720/Digital_TableTops_VTT/)
+This functionality is built in to my own free VTT, the Digital TableTops VTT found on Steam here: [store.steampowered.com/app/3073720/Digital_TableTops_VTT/](https://store.steampowered.com/app/3073720/Digital_TableTops_VTT/)
 Therefore, you should **NOT** be using this extra software if using my own VTT. It is not necessary.
 My VTT is 100% free, no strings attached. Very easy to use and lightweight.
 But I understand some people need the extra features found in a commercial VTT like Arkenforge or Foundry.
@@ -19,9 +19,10 @@ I've tested it with various IR frame models from:
 - SpecialTouch
 - TouchSmith
 - TouchWo
+- XintaiTouch
 - YCLTouch
 
-I have comfirmed the following manufacturers are **NOT** compatible:
+I have confirmed the following manufacturers are **NOT** compatible:
 
 - Chengying
 
