@@ -25,6 +25,7 @@ I've tested it with various IR frame models from:
 I have confirmed the following manufacturers are **NOT** compatible:
 
 - Chengying
+- DeYoWo
 
 I'd need the access to their programming guide to determine what payload to send the device. Since I do not sell those, I have no plans to acquire that information. But if you get it from them, feel free to pass it along and I will add support!
 
